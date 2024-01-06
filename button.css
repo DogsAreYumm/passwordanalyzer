@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-family: Verdana;
+}
+button:hover {
+    text-align: center;
+    background-color: darkgray;
+    color: black;
+    font-size: 100px;
+    height: 200px;
+    width: 300px;
+    font-family: Verdana;
+    padding: 10px;
+    margin: 20px;
+}
+button {
+    text-align: center;
+    background-color: lightgray;
+    color: black;
+    font-size: 100px;
+    height: 200px;
+    width: 300px;
+    font-family: Verdana;
+    padding: 10px;
+    margin: 20px;
+}
+:root {
+    --bg:  #242526;
+    --bg-accent: #484a4d;
+    --text-color: #dadce1;
+    --nav-size: 60px;
+    --border: 1px solid #474a4d;
+    --border-radius: 8px;
+    --speed: 500ms; 
+  }
